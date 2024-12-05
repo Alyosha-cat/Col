@@ -1,0 +1,8 @@
+torchdiffeq
+torchsummary
+pyyaml
+einops
+
+TorchDiffEqPack
+matplotlib
+openpyxl
