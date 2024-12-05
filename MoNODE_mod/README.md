@@ -19,7 +19,7 @@ You can check the relevant packages in `requirements.txt` (adding a few packages
 ## Data
 AIS data is used for experiment.
 
-But Data is non-public, so it cannot be shared. (Before uploading to github AIS datasets stored in `AIS` folder are removed)
+But data used is not public, so it cannot be shared. (Before uploading to github AIS datasets stored in `AIS` folder are removed)
 
 If you want to test on similar dataset, you can use https://www.kaggle.com/datasets/bwandowando/2021-noaa-ais-dataset?resource=download
 

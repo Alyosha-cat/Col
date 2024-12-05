@@ -1,3 +1,0 @@
-Results stored in /media/usr/SSD/yongmin/NDE/MONODE/results/ais/node/23/
-********** Float type is torch.float64 ********** 
-********** Running model on cuda ********** 
